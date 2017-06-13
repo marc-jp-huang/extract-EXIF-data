@@ -10,3 +10,5 @@ Extract EXIF data and export as JSON format
 ## Run:  
 python exif-extractor.py  
 
+## Result JSON:  
+json/pictures.json  
